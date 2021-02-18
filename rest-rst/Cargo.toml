@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 
 [workspace]
-members = ["tutor-nodb"]
+members = ["tutor-nodb", "tutor-db"]
